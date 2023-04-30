@@ -28,6 +28,8 @@
 
 - [🔗 Documentação IPTable](https://guiafoca.org/guiaonline/seguranca/ch05s06.html)
 
+- [🔗 Criar Self-Signed SSL Certificate](https://linuxize.com/post/creating-a-self-signed-ssl-certificate/)
+
 ## 🛠 Cursos
 
 - Segurança de rede: firewall, WAF e SIEM
