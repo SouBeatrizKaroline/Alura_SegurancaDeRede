@@ -16,6 +16,8 @@
 
 - [🔗 Instalar ModSecurity do Nginx no Debian/Ubuntu](https://www.tecmint.com/install-modsecurity-nginx-debian-ubuntu/)
 
+- [🔗 Documentação Snort](http://manual-snort-org.s3-website-us-east-1.amazonaws.com/node31.html)
+
 ## 🛠 Cursos
 
 - Segurança de rede: firewall, WAF e SIEM
